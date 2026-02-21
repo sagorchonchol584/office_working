@@ -1,14 +1,4 @@
 
 that is name sagor ,change Dev_sagor
 I am change Desktop
------------------chonchol--------------
-right now change sagor main branch
-just testing for
-------------------------------
-start to git commad
 
-this first commed
------------------------
-this second line commit
------------------------
-hello test git
